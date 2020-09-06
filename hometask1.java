@@ -1,5 +1,5 @@
 package ru.geekbrains.java_one_ht1;
-
+//прошу строго не судить
 public class hometask1 {
 
     public static void main(String[] args) {
